@@ -1,4 +1,8 @@
 {
+  "name": "lulu",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -17,6 +21,7 @@
     "@types/react-dom": "18.0.10",
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
+    "sass": "^1.77.4",
     "tailwindcss": "^3.4.4",
     "typescript": "4.9.4"
   }
